@@ -1,0 +1,8 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "dependencies": {},
+  "scripts": {
+    "start": "echo 'No build needed'"
+  }
+}
